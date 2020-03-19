@@ -5565,7 +5565,7 @@ button.close {
   right: 0;
   bottom: 0;
   left: 0;
-  z-index: 1040;
+ 
   background-color: #000000;
 }
 
@@ -14380,7 +14380,7 @@ footer .pull-center {
   height: 50px;
   font-size: 1.125rem;
   line-height: 30px;
-  padding: 0.625rem 0;
+  
 }
 
 .navbar.bg-primary {
@@ -15464,6 +15464,7 @@ h2.title {
 .modal .modal-header .close i {
   font-size: 16px;
 }
+
 
 .show:not(.modal) .dropdown-toggle:after {
   -webkit-transform: rotate(180deg);
