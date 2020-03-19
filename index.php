@@ -33,12 +33,12 @@
     <div class="cd-section" id="headers">
       <!--     *********     HEADER       *********      -->
       <div class="header-3">
-        <nav class="navbar navbar-color-on-scroll fixed-top navbar-transparent navbar-expand-lg"
+        <nav class="navbar navbar-color-on-scroll fixed-top  navbar-expand-lg"
             color-on-scroll="100" id="secionsNav">
           <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-translate">
-              <a class="navbar-brand" href="http://izzytech.ca/"><img alt="izzy-tech-logo" src="./assets/img/logo.png"></a>
+              <a class="navbar-brand" href="http://izzytech.ca/"><img alt="izzy-tech-logo" src="./assets/img/logo.png">  Izzy Tech</a>
               <button type="button" class="ml-auto navbar-toggler" data-toggle="collapse" data-target="#navigation-example3">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="navbar-toggler-icon"></span>
@@ -54,22 +54,22 @@
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="web-design.html" class="nav-link">
+                  <a href="web-design-vancouver.php" class="nav-link">
                     Web Design
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="it-services.html" class="nav-link">
+                  <a href="it-services-vancouver.php" class="nav-link">
                     IT Services
                   </a>
                 </li>
-                <li class="nav-item">
+              <!--   <li class="nav-item">
                   <a href="faq.html" class="nav-link">
                     FAQ
                   </a>
-                </li>
+                </li> -->
                 <li class="nav-item">
-                  <a href="contact-us.html" class="nav-link">
+                  <a href="contact-us.php" class="nav-link">
                     Contact Us
                   </a>
                 </li>
@@ -86,7 +86,7 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <div class="page-header header-filter" alt="web-design" style="background-image: url('./assets/img/hero.jpg');">
+              <div class="page-header header-filter" alt="web-design" style="background-image: url('./assets/img/hero4.jpg');">
                 <div class="container">
                   <div class="row">
                     <div class="col-md-8  ml-auto mr-auto text-center">
@@ -94,12 +94,15 @@
                       <h4> Unlike traditional IT service providers, <span class="title">IZZY TECH</span>  has developed an holistic view of IT services for local business on Vancouver from IT assets managment to your social media strategy.</h4>
                       <br>
                       <div class="buttons">
-                        <a href="#about-us" class="btn btn-danger btn-lg">
-                          Read More
+                        <a href="#contact-us" class="btn btn-danger btn-lg">
+                          Contact Us
                         </a>
+                        </a>
+                        <a href="https://www.facebook.com/Izzytech1/" class="btn btn-just-icon btn-white btn-link">
+                          <i class="fa fa-facebook-square"></i>
                         </a>
                         <a href="" class="btn btn-just-icon btn-white btn-link">
-                          <i class="fa fa-facebook-square"></i>
+                          <i class="fa fa-instagram"></i>
                         </a>
                       </div>
                     </div>
@@ -108,7 +111,7 @@
               </div>
             </div>
             <div class="carousel-item">
-              <div class="page-header header-filter" style="background-image: url('./assets/img/hero2.jpg');">
+              <div class="page-header header-filter" style="background-image: url('./assets/img/hero3.jpg');">
                 <div class="container">
                   <div class="row">
                     <div class="col-md-8 ml-auto mr-auto text-center">
@@ -116,8 +119,8 @@
                       <h4>We build completely custom web pages base on your market and target customers, we develop an end to end solution for your business.</h4>
                       <br>
                       <div class="buttons">
-                        <a href="#about-us" class="btn btn-danger btn-lg">
-                          Read More
+                        <a href="#contact-us" class="btn btn-danger btn-lg">
+                          Contact Us
                         </a>
                       </div>
                     </div>
@@ -150,59 +153,7 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-md-4">
-              <div class="info info-horizontal">
-                <div class="icon icon-info">
-                  <i class="material-icons">dns</i>
-                </div>
-                <div class="description">
-                  <h4 class="info-title">Technical Support</h4>
-                  <p>Our services inlclude
-                     office wireless setup, modem setup, hot spot, wireless modem, Cisco, Meraki, Computer IP settings configuration, DHCP, NAS . </p>
-                  <a href="">Find more...</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="info info-horizontal">
-                <div class="icon icon-info">
-                  <i class="material-icons">code</i>
-                </div>
-                <div class="description">
-                  <h4 class="info-title">Web Design</h4>
-                  <p>Our offer includes fully customize websites, website design, website redesign, marketing, social media and digital strategy.</p>
-                  <a href="#pablo">Find more...</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="info info-horizontal">
-                <div class="icon icon-info">
-                  <i class="material-icons">file_copy</i>
-                </div>
-                <div class="description">
-                  <h4 class="info-title">Data Backup</h4>
-                  <p>Our solutions include data copy, cloud backup, physical backup, incremental backup, differential backup, full backup and disaster recovery we support  Windows PC, Macbook, Apple computers, Windows Servers, web servers, File shares, Active Directory, migration to virtual machines (P2V</p>
-                  <a href="#pablo">Find more...</a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- SERVICES ROW 2 -->
-          <div class="row">
-            <div class="col-md-4">
-              <div class="info info-horizontal">
-                <div class="icon icon-info">
-                  <i class="material-icons">wifi_tethering</i>
-                </div>
-                <div class="description">
-                  <h4 class="info-title">Network Connectivity</h4>
-                  <p>We can provide recommendations regarding Access Points (WiFi) location and current “dead zones”. We can manage your IP phones, printers, and Windows network environment to ensure high availability and reliable network connection. . </p>
-                  <a href="">Find more...</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
+             <div class="col-md-4">
               <div class="info info-horizontal">
                 <div class="icon icon-info">
                   <i class="material-icons">publish</i>
@@ -210,7 +161,7 @@
                 <div class="description">
                   <h4 class="info-title">Hosting</h4>
                   <p>Publish yoour website with us, we provide hosting for web pages, applications writenn in HTML5,CSS, PHP, PYTHON, WordPress, Joomla, Shopyfy, WooCommerce.</p>
-                  <a href="#pablo">Find more...</a>
+                  <a href="#contact-us" class="">Contact us...</a>
                 </div>
               </div>
             </div>
@@ -222,7 +173,59 @@
                 <div class="description">
                   <h4 class="info-title">SEO </h4>
                   <p>Be on the first web pages of search engines, we help you develop the right strategy for your business</p>
-                  <a href="#pablo">Find more...</a>
+                  <a href="#contact-us">Contact us...</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="info info-horizontal">
+                <div class="icon icon-info">
+                  <i class="material-icons">code</i>
+                </div>
+                <div class="description">
+                  <h4 class="info-title">Web Design</h4>
+                  <p>Our offer includes fully customize websites, website design, website redesign, marketing, social media and digital strategy.</p>
+                  <a href="#contact-us">Contact us...</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- SERVICES ROW 2 -->
+          <div class="row">
+            <div class="col-md-4">
+              <div class="info info-horizontal">
+                <div class="icon icon-info">
+                  <i class="material-icons">dns</i>
+                </div>
+                <div class="description">
+                  <h4 class="info-title">Technical Support</h4>
+                  <p>Our services inlclude
+                     office wireless setup, modem setup, hot spot, wireless modem, Cisco, Meraki, Computer IP settings configuration, DHCP, NAS . </p>
+                  <a href="#contact-us">Contact us...</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="info info-horizontal">
+                <div class="icon icon-info">
+                  <i class="material-icons">wifi_tethering</i>
+                </div>
+                <div class="description">
+                  <h4 class="info-title">Network Connectivity</h4>
+                  <p>We can provide recommendations regarding Access Points (WiFi) location and current “dead zones”. We can manage your IP phones, printers, and Windows network environment to ensure high availability and reliable network connection. . </p>
+                  <a href="#contact-us">Contact us...</a>
+                </div>
+              </div>
+            </div>
+             <div class="col-md-4">
+              <div class="info info-horizontal">
+                <div class="icon icon-info">
+                  <i class="material-icons">file_copy</i>
+                </div>
+                <div class="description">
+                  <h4 class="info-title">Data Backup</h4>
+                  <p>Our solutions include data copy, cloud backup, physical backup, incremental backup, differential backup, full backup and disaster recovery we support  Windows PC, Macbook, Apple computers, Windows Servers, web servers, File shares, Active Directory, migration to virtual machines (P2V</p>
+                  <a href="#contact-us">Contact us...</a>
                 </div>
               </div>
             </div>
@@ -249,7 +252,7 @@
                 <div class="row">
                   <div class="col-md-5">
                     <div class="card-header card-header-image">
-                      <a href="#pablo">
+                      <a href="#contact-us">
                         <img class="img" src="./assets/img/faces/card-profile1-square.jpg" />
                       </a>
                     </div>
@@ -429,7 +432,7 @@
         </div>
       </div>
       <!--     *********    END PROJECTS       *********      -->
-    <div class="cd-section" id="contactus">
+    <div class="cd-section" id="contact-us">
       <!--     *********    CONTACT US 1     *********      -->
       <div class="contactus-1 section-image" style="background-image: url('./assets/img/examples/city.jpg')">
         <div class="container">
@@ -437,35 +440,11 @@
             <div class="col-md-5">
               <h2 class="title">Get in Touch</h2>
               <h5 class="description">You need more information? Send us a message.</h5>
-              <div class="info info-horizontal">
-                <div class="icon icon-primary">
-                  <i class="material-icons">pin_drop</i>
-                </div>
-                <div class="description">
-                  <h4 class="info-title">Find us at the office</h4>
-                  <p> some address,
-                    <br> Adress #,
-                    <br> Vancouver, BC, Canada
-                  </p>
-                </div>
-              </div>
-              <div class="info info-horizontal">
-                <div class="icon icon-primary">
-                  <i class="material-icons">phone</i>
-                </div>
-                <div class="description">
-                  <h4 class="info-title">Give us a ring</h4>
-                  <p> Izzy Tech
-                    <br> +1 664 321 762
-                    <br> Mon - Fri, 9:00-22:00
-                  </p>
-                </div>
-              </div>
             </div>
             <div class="col-md-5 ml-auto">
               <div class="card card-contact">
                 <form id="contact-form" method="post">
-                  <div class="card-header card-header-raised card-header-danger text-center">
+                  <div class="card-header card-header-raised card-header-info text-center">
                     <h4 class="card-title">Contact Us</h4>
                   </div>
                   <div class="card-body">
@@ -490,6 +469,59 @@
                       <input type="email" name="email" class="form-control">
                       <span class="material-input"></span>
                     </div>
+                    <br>
+                    <label class="bmd-label-floating">Services</label>
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="form-check form-group label-floating is-empty">
+                          <label class="form-check-label bmd-label-floating">
+                            <input class="form-check-input" type="checkbox" value=""> It services
+                            <span class="form-check-sign">
+                              <span class="check material-input"></span>
+                            </span>
+                          </label>
+                         </div> 
+                      </div>
+                      <div class="col-md-6">
+                        <div class="form-check form-group label-floating is-empty">
+                          <label class="form-check-label bmd-label-floating">
+                            <input class="form-check-input" type="checkbox" value=""> Web Design
+                            <span class="form-check-sign">
+                              <span class="check material-input"></span>
+                            </span>
+                          </label>
+                         </div> 
+                      </div>
+                    </div> 
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="form-check form-group label-floating is-empty">
+                          <label class="form-check-label bmd-label-floating">
+                            <input class="form-check-input" type="checkbox" value=""> Social & Marketing
+                            <span class="form-check-sign">
+                              <span class="check material-input"></span>
+                            </span>
+                          </label>
+                         </div> 
+                      </div>
+                      <div class="col-md-6">
+                        <div class="form-check form-group label-floating is-empty">
+                          <label class="form-check-label bmd-label-floating">
+                            <input class="form-check-input" type="checkbox" value=""> Network & Backup
+                            <span class="form-check-sign">
+                              <span class="check material-input"></span>
+                            </span>
+                          </label>
+                         </div> 
+                      </div>
+                    </div> 
+                    
+                    <br>                 
+                    <div class="form-group label-floating is-empty">
+                      <label class="bmd-label-floating">Email address</label>
+                      <input type="email" name="email" class="form-control">
+                      <span class="material-input"></span>
+                    </div>
                     <div class="form-group label-floating is-empty">
                       <label for="exampleMessage1" class="bmd-label-floating">Your Message</label>
                       <textarea name="message" class="form-control" id="exampleMessage1" rows="6"></textarea>
@@ -505,7 +537,7 @@
                         </span>
                       </label>
                     </div>
-                    <button type="submit" class="btn btn-danger pull-right">Send Message</button>
+                    <button type="submit" class="btn btn-info pull-right">Send Message</button>
                   </div>
                 </form>
               </div>
@@ -515,6 +547,56 @@
       </div>
       <!--     *********    END CONTACT US 1      *********      -->
 
+    </div>
+      <footer class="footer">
+    <div class="container">
+ 
+      <div class="copyright float-right">
+        &copy;
+        <script>
+          document.write(new Date().getFullYear())
+        </script>, made by
+        <a href="http://digitalorca.ca/" target="_blank">Digital Orca</a>.
+      </div>
+    </div>
+  </footer>
+  </div>
+  <!-- Modal -->
+<div class="modal fade bd-example-modal-lg" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="subscribe-line subscribe-line-white">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-12">
+                  <h3 class="title text-center">Get 10% of on your first project!</h3>
+                  <div class="card card-plain card-form-horizontal">
+                    <div class="card-body ">
+                      <form method="" action="">
+                        <div class="row">
+                          <div class="col-lg-8 col-md-6 ">
+                            <span class="bmd-form-group"><div class="input-group">
+                              <div class="input-group-prepend">
+                                <span class="input-group-text">
+                                  <i class="material-icons">mail</i>
+                                </span>
+                              </div>
+                              <input type="email" value="" placeholder="Your Email..." class="form-control">
+                            </div></span>
+                          </div>
+                          <div class="col-lg-4 col-md-6 ">
+                            <button type="button" class="btn btn-info btn-round btn-block">Subscribe</button>
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+               
+              </div>
+            </div>
+          </div>
+      </div>
     </div>
   </div>
   <!--   Core JS Files   -->
@@ -545,16 +627,18 @@
   <script src="./assets/demo/demo.js" type="text/javascript"></script>
   <!-- Control Center for Material Kit: parallax effects, scripts for the example pages etc -->
   <script src="./assets/js/material-kit.js?v=2.1.1" type="text/javascript"></script>
-  <script>
-    $(document).ready(function() {
-      materialKitDemo.initContactUs2Map();
-    });
-  </script>
+ 
   <script type="text/javascript">
     $('.carousel').carousel({
         interval: 15000
     })
   </script>
+
+   <script type="text/javascript">
+    $(window).on('load',function(){
+        $('#myModal').modal('show');
+    });
+</script>
 </body>
 
 </html>
