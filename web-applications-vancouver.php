@@ -8,7 +8,7 @@
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>
-    Website Design Vancouver
+    Web Applications Vancouver
   </title>
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
   <!-- SEO -->
@@ -33,7 +33,7 @@
     <div class="cd-section" id="headers">
       <!--     *********     HEADER       *********      -->
       <div class="header-3">
-                   <nav class="navbar navbar-color-on-scroll fixed-top  navbar-expand-lg"
+                <nav class="navbar navbar-color-on-scroll fixed-top  navbar-expand-lg"
             color-on-scroll="100" id="secionsNav">
           <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -82,14 +82,14 @@
             </div>
           </div>
         </nav>
-  <div class="page-header header-filter" data-parallax="true" style="background-image: url('./assets/img/web-design.png');">
-    <div class="container" id="webdesign">
+  <div class="page-header header-filter" data-parallax="true" style="background-image: url('./assets/img/examples/card-project2.jpg');">
+    <div class="container" id="webapps">
       <div class="row">
         <div class="col-md-8 ml-auto mr-auto text-center">
-          <h1 class="title">Web Design Vancouver</h1>
-          <h4>We built beautiful web pages fully customize for your business.</h4>
+          <h1 class="title">Web Applications Vancouver</h1>
+          <h4>Get ready to put your business one step ahead.</h4>
           <br>
-          <a href="#webdesign" class="btn btn-rose btn-round btn-lg">
+          <a href="#webapps" class="btn btn-rose btn-round btn-lg">
             <i class="material-icons">format_align_left</i> Read More
           </a>
         </div>
@@ -101,11 +101,10 @@
       <div class="section section-text">
         <div class="row">
           <div class="col-md-8 ml-auto mr-auto">
-            <h3 class="title">We build fully customize websites...</h3>
+            <h3 class="title">We build web applications.</h3>
             <div class="blockquote undefined">
               <p>
-                &#x201C;We design successful web pages, with last generation design.
-               We specialize in web design and positioning..&#x201D;
+                &#x201C;We build web applications for your business needs, we base our applications on agile methodologies that puts your ROI as our #1 priority.&#x201D;
               </p>
               <small>
                 Izzy Tech.
@@ -115,26 +114,16 @@
            <div class="section col-md-10 ml-auto mr-auto">
             <div class="row">
               <div class="col-md-8 ml-auto mr-auto">
-                <img class="img-raised rounded img-fluid" alt="web-design-vancouver" src="./assets/img/examples/card-project1.jpg">
+                <img class="img-raised rounded img-fluid" alt="web-design-vancouver" src="./assets/img/examples/card-project5.jpg">
               </div>
               
             </div>
           </div>
           <div class="col-md-8 ml-auto mr-auto">
-            <h3 class="title">Web Design:</h3>
+            <h3 class="title">Fully Customize web applications:</h3>
             <p>
-               Take advantage of one of our fully responsive websites or work with us to develop just about anything you can dream up. </p>    
+               With more than 5 years of expierience we offer you the possibility to develop the right tools for your business contact us and tell us about your business needs. </p>    
           </div> 
-          <div class="col-md-8 ml-auto mr-auto">
-            <h3 class="title">SEO:</h3>
-            <p>
-               If you’re looking for a boost in relevant search rankings we offer SEO optimization for content and websites; while our marketing team specializes in strategic digital marketing & web campaigns. </p>    
-          </div>
-          <div class="col-md-8 ml-auto mr-auto">
-            <h3 class="title">Hosting:</h3>
-            <p>
-               We offer Wordpress hosting services for your website. </p>    
-          </div>
          
           <div class="col-md-8 ml-auto mr-auto">
             <br>

@@ -33,7 +33,7 @@
     <div class="cd-section" id="headers">
       <!--     *********     HEADER       *********      -->
       <div class="header-3">
-        <nav class="navbar navbar-color-on-scroll fixed-top  navbar-expand-lg"
+              <nav class="navbar navbar-color-on-scroll fixed-top  navbar-expand-lg"
             color-on-scroll="100" id="secionsNav">
           <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -59,15 +59,20 @@
                   </a>
                 </li>
                 <li class="nav-item">
+                  <a href="web-applications-vancouver.php" class="nav-link">
+                    Web Applications
+                  </a>
+                </li>
+                <li class="nav-item">
                   <a href="it-services-vancouver.php" class="nav-link">
                     IT Services
                   </a>
                 </li>
-              <!--   <li class="nav-item">
-                  <a href="faq.html" class="nav-link">
-                    FAQ
+                <li class="nav-item">
+                  <a href="blog.php" class="nav-link">
+                    Blog
                   </a>
-                </li> -->
+                </li> 
                 <li class="nav-item">
                   <a href="contact-us.php" class="nav-link">
                     Contact Us
@@ -231,6 +236,46 @@
             </div>
           </div>
           <!-- END SERVICES ROW 2 -->
+          <!-- SERVICES ROW 3 -->
+          <div class="row">
+            <div class="col-md-4">
+              <div class="info info-horizontal">
+                <div class="icon icon-info">
+                  <i class="material-icons">important_devices</i>
+                </div>
+                <div class="description">
+                  <h4 class="info-title">Web Applications</h4>
+                  <p>We build modern web applications for your business with php and python. </p>
+                  <a href="#contact-us">Contact us...</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="info info-horizontal">
+                <div class="icon icon-info">
+                  <i class="material-icons">loyalty</i>
+                </div>
+                <div class="description">
+                  <h4 class="info-title">Ecommerce</h4>
+                  <p>Put an online store with us, Izzy tech has developed modern online stores with secure payment gateways with google and facebook login methods. </p>
+                  <a href="#contact-us">Contact us...</a>
+                </div>
+              </div>
+            </div>
+             <div class="col-md-4">
+              <div class="info info-horizontal">
+                <div class="icon icon-info">
+                  <i class="material-icons">file_copy</i>
+                </div>
+                <div class="description">
+                  <h4 class="info-title">CMS</h4>
+                  <p>Develop your business with your own content managment system fully customize for your needs.</p>
+                  <a href="#contact-us">Contact us...</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- END SERVICES ROW 3 -->
         </div>
         <!--     *********    END FEATURES      *********      -->
     </div>
@@ -247,22 +292,22 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-8 ml-auto mr-auto">
               <div class="card card-profile card-plain">
                 <div class="row">
-                  <div class="col-md-5">
+                  <div class="col-md-6">
                     <div class="card-header card-header-image">
                       <a href="#contact-us">
-                        <img class="img" src="./assets/img/faces/card-profile1-square.jpg" />
+                        <img class="img" src="./assets/img/israel.jpeg" />
                       </a>
                     </div>
                   </div>
-                  <div class="col-md-7">
+                  <div class="col-md-6">
                     <div class="card-body">
                       <h4 class="card-title">Israel </h4>
                       <h6 class="card-category text-muted">Founder</h6>
                       <p class="card-description">
-                        Something...
+                        Israel started IzzyTech IT with the vision of providing an above exceptional customer service for Websites and IT Services by providing customers with a team of young professionals whom are knowledgeable, experienced,  approachable, and passionate about each project.
                       </p>
                     </div>
                     <div class="card-footer">
@@ -272,6 +317,33 @@
                     </div>
                   </div>
                 </div>
+                <br>
+              </div>
+            </div>           
+            <div class="col-md-6">
+              <div class="card card-profile card-plain">
+                <div class="row">
+                  <div class="col-md-5">
+                    <div class="card-header card-header-image">
+                      <a href="#pablo">
+                        <img class="img" src="./assets/img/gaby.jpg" />
+                      </a>
+                    </div>
+                  </div>
+                  <div class="col-md-7">
+                    <div class="card-body">
+                      <h4 class="card-title">Gabriela Gonzalez</h4>
+                      <h6 class="card-category text-muted">Social Media</h6>
+                      <p class="card-description">
+                        Graduated from International Relations Bachelor Degree, Specialty and Master Degree in Management Skills and successfully complete Hospitality Management Co-Op Diploma in Vancouver, Canada..
+                      </p>
+                    </div>
+                    <div class="card-footer">
+                       <a href="#pablo" class="btn btn-just-icon btn-link btn-white"><i class="fa fa-linkedin"></i></a>
+                      <a href="#pablo" class="btn btn-just-icon btn-link btn-white"><i class="fa fa-facebook-square"></i></a>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
             <div class="col-md-6">
@@ -280,7 +352,7 @@
                   <div class="col-md-5">
                     <div class="card-header card-header-image">
                       <a href="#pablo">
-                        <img class="img" src="./assets/img/faces/card-profile1-square.jpg" />
+                        <img class="img" src="./assets/img/joseluis.jpg" />
                       </a>
                     </div>
                   </div>
@@ -289,68 +361,13 @@
                       <h4 class="card-title">Jose Luis Santiago Marquez</h4>
                       <h6 class="card-category text-muted">Web Strategist</h6>
                       <p class="card-description">
-                        Something...
+                        
+                          Graduated from applied mathematics, certified as a scrum master, passionate about technology with more than 5 years on IT industry and also as javascript teacher on Vancouver, CA.
                       </p>
                     </div>
                     <div class="card-footer">
                       <a href="#pablo" class="btn btn-just-icon btn-link btn-white"><i class="fa fa-linkedin"></i></a>
                       <a href="#pablo" class="btn btn-just-icon btn-link btn-white"><i class="fa fa-facebook-square"></i></a>
-                      <a href="#pablo" class="btn btn-just-icon btn-link btn-white"><i class="fa fa-dribbble"></i></a>
-                      <a href="#pablo" class="btn btn-just-icon btn-link btn-white"><i class="fa fa-google"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="card card-profile card-plain">
-                <div class="row">
-                  <div class="col-md-5">
-                    <div class="card-header card-header-image">
-                      <a href="#pablo">
-                        <img class="img" src="./assets/img/faces/card-profile4-square.jpg" />
-                      </a>
-                    </div>
-                  </div>
-                  <div class="col-md-7">
-                    <div class="card-body">
-                      <h4 class="card-title">Brothers Wife</h4>
-                      <h6 class="card-category text-muted">Web Designer</h6>
-                      <p class="card-description">
-                        Something.
-                      </p>
-                    </div>
-                    <div class="card-footer">
-                      <a href="#pablo" class="btn btn-just-icon btn-link btn-white"><i class="fa fa-youtube-play"></i></a>
-                      <a href="#pablo" class="btn btn-just-icon btn-link btn-white"><i class="fa fa-twitter"></i></a>
-                      <a href="#pablo" class="btn btn-just-icon btn-link btn-white"><i class="fa fa-instagram"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="card card-profile card-plain">
-                <div class="row">
-                  <div class="col-md-5">
-                    <div class="card-header card-header-image">
-                      <a href="#pablo">
-                        <img class="img" src="./assets/img/faces/card-profile1-square.jpg" />
-                      </a>
-                    </div>
-                  </div>
-                  <div class="col-md-7">
-                    <div class="card-body">
-                      <h4 class="card-title">Brother</h4>
-                      <h6 class="card-category text-muted">Web Developer</h6>
-                      <p class="card-description">
-                        Something.
-                      </p>
-                    </div>
-                    <div class="card-footer">
-                      <a href="#pablo" class="btn btn-just-icon btn-link btn-white"><i class="fa fa-linkedin"></i></a>
-                      <a href="#pablo" class="btn btn-just-icon btn-link btn-white"><i class="fa fa-facebook-square"></i></a>
-                      <a href="#pablo" class="btn btn-just-icon btn-link btn-white"><i class="fa fa-google"></i></a>
                     </div>
                   </div>
                 </div>
@@ -634,11 +651,11 @@
     })
   </script>
 
-   <script type="text/javascript">
+<!--    <script type="text/javascript">
     $(window).on('load',function(){
         $('#myModal').modal('show');
     });
-</script>
+</script> -->
 </body>
 
 </html>
