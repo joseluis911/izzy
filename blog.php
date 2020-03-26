@@ -8,7 +8,7 @@
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>
-    Website Design Vancouver
+    Wordpress Vancouver
   </title>
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
   <!-- SEO -->
@@ -33,7 +33,7 @@
     <div class="cd-section" id="headers">
       <!--     *********     HEADER       *********      -->
       <div class="header-3">
-                   <nav class="navbar navbar-color-on-scroll fixed-top  navbar-expand-lg"
+              <nav class="navbar navbar-color-on-scroll fixed-top  navbar-expand-lg"
             color-on-scroll="100" id="secionsNav">
           <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -82,14 +82,14 @@
             </div>
           </div>
         </nav>
-  <div class="page-header header-filter" data-parallax="true" style="background-image: url('./assets/img/web-design.png');">
-    <div class="container" id="webdesign">
+  <div class="page-header header-filter" data-parallax="true" style="background-image: url('./assets/img/itservices.jpg');">
+    <div class="container" id="itservices">
       <div class="row">
         <div class="col-md-8 ml-auto mr-auto text-center">
-          <h1 class="title">Web Design Vancouver</h1>
-          <h4>We built beautiful web pages fully customize for your business.</h4>
+          <h1 class="title">Wordpress Web Developer vs Do it yourself Web Development ?</h1>
+          <h4>In this article we are going to talk about hiring a web developer or DIY web page.</h4>
           <br>
-          <a href="#webdesign" class="btn btn-rose btn-round btn-lg">
+          <a href="#itservices" class="btn btn-rose btn-round btn-lg">
             <i class="material-icons">format_align_left</i> Read More
           </a>
         </div>
@@ -100,40 +100,63 @@
     <div class="container">
       <div class="section section-text">
         <div class="row">
-          <div class="col-md-8 ml-auto mr-auto">
-            <h3 class="title">We build fully customize websites...</h3>
-            <div class="blockquote undefined">
-              <p>
-                &#x201C;We design successful web pages, with last generation design.
-               We specialize in web design and positioning..&#x201D;
-              </p>
-              <small>
-                Izzy Tech.
-              </small>
-            </div>
-          </div>
            <div class="section col-md-10 ml-auto mr-auto">
             <div class="row">
+             <div class="col-md-8 ml-auto mr-auto">
+              <h3 class="title">Starting a new website?:</h3>
+              <p>
+                 If you want to start a new website – be it for business purposes or a personal project – there are two main paths you can take: <br> 
+                 <ul>
+                   <li>
+                     Hire a web developer
+                   </li>
+                   <li>
+                     Create a website yourself (scary we know!)
+                   </li>
+                 </ul>
+               </p>
+               <p>
+                 Here are some of the considerations you maybe wanna take in advance before taking your decision...
+               </p>
+               <hr>
+          </div>
               <div class="col-md-8 ml-auto mr-auto">
-                <img class="img-raised rounded img-fluid" alt="web-design-vancouver" src="./assets/img/examples/card-project1.jpg">
+                <img class="img-raised rounded img-fluid" alt="wordpress-development-vancouver" src="./assets/img/examples/card-project5.jpg">
               </div>
               
             </div>
           </div>
+ 
           <div class="col-md-8 ml-auto mr-auto">
-            <h3 class="title">Web Design:</h3>
+            <h3 class="title">1.-Budget:</h3>
             <p>
-               Take advantage of one of our fully responsive websites or work with us to develop just about anything you can dream up. </p>    
-          </div> 
-          <div class="col-md-8 ml-auto mr-auto">
-            <h3 class="title">SEO:</h3>
-            <p>
-               If you’re looking for a boost in relevant search rankings we offer SEO optimization for content and websites; while our marketing team specializes in strategic digital marketing & web campaigns. </p>    
+               The no.1 problem with web developers is that they charge a lot more than tools like wordpress where you can build a web page for free.
+
+              Even though the market averages are very broad, we can safely estimate that hiring a developer can set you back anything from $500 to even $5,000 for a basic website.
+
+              This is just how the market works. We’re talking about people who do this professionally.
+
+              If you have no budget... well you have your answer!
+               </p>   
+                
           </div>
           <div class="col-md-8 ml-auto mr-auto">
-            <h3 class="title">Hosting:</h3>
+            <h3 class="title">2.-Do you know wordpress?</h3>
             <p>
-               We offer Wordpress hosting services for your website. </p>    
+               All you need at this point is a basic understanding of how to work with WordPress – publish posts, pages, install plugins, install themes. if you dont have time to learn the basics of wordpress we recommend you to hire the help of a web developer <br>
+                  
+                </p>    
+          </div>
+          <div class="col-md-8 ml-auto mr-auto">
+            <h3 class="title">2.-Do you understand how does a domain and a hosting are related?</h3>
+            <p>
+               If all we’re saying here doesn’t sound particularly known to you then you might want to hire a developer who’s going to handle all those hosting- and domain-related tasks for you.
+                  
+            </p>
+            <p>
+               If you need help for setting up a web page dont forget to write to us!
+                  
+                </p>    
           </div>
          
           <div class="col-md-8 ml-auto mr-auto">
@@ -281,8 +304,6 @@
   <script src="./assets/demo/demo.js" type="text/javascript"></script>
   <!-- Control Center for Material Kit: parallax effects, scripts for the example pages etc -->
   <script src="./assets/js/material-kit.js?v=2.1.1" type="text/javascript"></script>
-
-  
 
 </body>
 

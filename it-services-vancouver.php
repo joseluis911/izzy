@@ -8,7 +8,7 @@
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>
-    Website Design | IT Services
+    IT Services Vancouver
   </title>
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
   <!-- SEO -->
@@ -33,12 +33,12 @@
     <div class="cd-section" id="headers">
       <!--     *********     HEADER       *********      -->
       <div class="header-3">
-        <nav class="navbar navbar-color-on-scroll fixed-top  navbar-expand-lg"
+                        <nav class="navbar navbar-color-on-scroll fixed-top  navbar-expand-lg"
             color-on-scroll="100" id="secionsNav">
           <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-translate">
-              <a class="navbar-brand" href="index.php"><img alt="izzy-tech-logo" src="./assets/img/logo.png">  Izzy Tech</a>
+              <a class="navbar-brand" href="http://izzytech.ca/"><img alt="izzy-tech-logo" src="./assets/img/logo.png">  Izzy Tech</a>
               <button type="button" class="ml-auto navbar-toggler" data-toggle="collapse" data-target="#navigation-example3">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="navbar-toggler-icon"></span>
@@ -59,15 +59,20 @@
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="it-services-vancouver.php" class="nav-link active">
+                  <a href="web-applications-vancouver.php" class="nav-link">
+                    Web Applications
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="it-services-vancouver.php" class="nav-link">
                     IT Services
                   </a>
                 </li>
-               <!--  <li class="nav-item">
-                  <a href="faq.html" class="nav-link">
-                    FAQ
+                <li class="nav-item">
+                  <a href="blog.php" class="nav-link">
+                    Blog
                   </a>
-                </li> -->
+                </li> 
                 <li class="nav-item">
                   <a href="contact-us.php" class="nav-link">
                     Contact Us
