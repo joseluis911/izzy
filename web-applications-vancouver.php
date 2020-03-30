@@ -128,39 +128,63 @@
           <div class="col-md-8 ml-auto mr-auto">
             <br>
             <div class="card card-contact">
-                <form id="contact-form" method="post">
+                                <form id="contact-form" method="post" action="#">
                   <div class="card-header card-header-raised card-header-info text-center">
                     <h4 class="card-title">Contact Us</h4>
                   </div>
                   <div class="card-body">
+                    <div class="ajaxAlert"></div> 
                     <div class="row">
                       <div class="col-md-6">
                         <div class="form-group label-floating is-empty">
                           <label class="bmd-label-floating">First name</label>
-                          <input type="text" name="name" class="form-control">
+                          <input type="text" name="name" class="form-control name">
                           <span class="material-input"></span>
                         </div>
                       </div>
                       <div class="col-md-6">
                         <div class="form-group label-floating is-empty">
                           <label class="bmd-label-floating">Last name</label>
-                          <input type="text" name="name" class="form-control">
+                          <input type="text" name="name" class="form-control last">
                           <span class="material-input"></span>
                         </div>
                       </div>
                     </div>
                     <div class="form-group label-floating is-empty">
                       <label class="bmd-label-floating">Email address</label>
-                      <input type="email" name="email" class="form-control">
+                      <input type="email" name="email" class="form-control email">
                       <span class="material-input"></span>
                     </div>
                     <br>
                     <label class="bmd-label-floating">Services</label>
+                    <fieldset id="checkArray">
+                      <div class="row">
+                        <div class="col-md-6">
+                          <div class="form-check form-group label-floating is-empty">
+                            <label class="form-check-label bmd-label-floating">
+                              <input class="form-check-input it" id="it" name="chk[]" type="checkbox" value="itServices"> It services
+                              <span class="form-check-sign">
+                                <span class="check material-input"></span>
+                              </span>
+                            </label>
+                           </div> 
+                        </div>
+                        <div class="col-md-6">
+                          <div class="form-check form-group label-floating is-empty">
+                            <label class="form-check-label bmd-label-floating">
+                              <input class="form-check-input web" id="web" name="chk[]" type="checkbox" value="webDesign"> Web Design
+                              <span class="form-check-sign">
+                                <span class="check material-input"></span>
+                              </span>
+                            </label>
+                           </div> 
+                        </div>
+                       </div> 
                     <div class="row">
                       <div class="col-md-6">
                         <div class="form-check form-group label-floating is-empty">
                           <label class="form-check-label bmd-label-floating">
-                            <input class="form-check-input" type="checkbox" value=""> It services
+                            <input class="form-check-input social" id="social" name="chk[]" type="checkbox" value="social&marketing"> Social & Marketing
                             <span class="form-check-sign">
                               <span class="check material-input"></span>
                             </span>
@@ -170,59 +194,35 @@
                       <div class="col-md-6">
                         <div class="form-check form-group label-floating is-empty">
                           <label class="form-check-label bmd-label-floating">
-                            <input class="form-check-input" type="checkbox" value=""> Web Design
+                            <input class="form-check-input net" id="net" name="chk[]" type="checkbox" value="network&backup"> Network & Backup
                             <span class="form-check-sign">
                               <span class="check material-input"></span>
                             </span>
                           </label>
                          </div> 
                       </div>
-                    </div> 
-                    <div class="row">
-                      <div class="col-md-6">
-                        <div class="form-check form-group label-floating is-empty">
-                          <label class="form-check-label bmd-label-floating">
-                            <input class="form-check-input" type="checkbox" value=""> Social & Marketing
-                            <span class="form-check-sign">
-                              <span class="check material-input"></span>
-                            </span>
-                          </label>
-                         </div> 
-                      </div>
-                      <div class="col-md-6">
-                        <div class="form-check form-group label-floating is-empty">
-                          <label class="form-check-label bmd-label-floating">
-                            <input class="form-check-input" type="checkbox" value=""> Network & Backup
-                            <span class="form-check-sign">
-                              <span class="check material-input"></span>
-                            </span>
-                          </label>
-                         </div> 
-                      </div>
-                    </div> 
+                    </div>
+                    </fieldset>
+                     
                     
                     <br>                 
-                    <div class="form-group label-floating is-empty">
-                      <label class="bmd-label-floating">Email address</label>
-                      <input type="email" name="email" class="form-control">
-                      <span class="material-input"></span>
-                    </div>
+                  
                     <div class="form-group label-floating is-empty">
                       <label for="exampleMessage1" class="bmd-label-floating">Your Message</label>
-                      <textarea name="message" class="form-control" id="exampleMessage1" rows="6"></textarea>
+                      <textarea name="message" class="form-control message" id="exampleMessage1" rows="6"></textarea>
                       <span class="material-input"></span>
                     </div>
                   </div>
                   <div class="card-footer justify-content-between">
-                    <div class="form-check">
+<!--                     <div class="form-check">
                       <label class="form-check-label">
                         <input class="form-check-input" type="checkbox" value=""> I'm not a robot
                         <span class="form-check-sign">
                           <span class="check"></span>
                         </span>
                       </label>
-                    </div>
-                    <button type="submit" class="btn btn-info pull-right">Send Message</button>
+                    </div> -->
+                    <input type="button" class="btn btn-large btn-info  btnEnviar" value="Send Message"></input>
                   </div>
                 </form>
               </div>
@@ -248,6 +248,9 @@
   <script src="./assets/js/core/bootstrap-material-design.min.js" type="text/javascript"></script>
   <script src="./assets/js/plugins/moment.min.js"></script>
   <!--	Plugin for the Datepicker, full documentation here: https://github.com/Eonasdan/bootstrap-datetimepicker -->
+   <script src="./assets/js/contact.js" type="text/javascript"></script>
+     <!-- SweetAlert 2 https://sweetalert2.github.io/-->
+    <script src="./assets/js/plugins/sweetalert2.all.js"></script>
   <script src="./assets/js/plugins/bootstrap-datetimepicker.js" type="text/javascript"></script>
   <!--  Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
   <script src="./assets/js/plugins/nouislider.min.js" type="text/javascript"></script>

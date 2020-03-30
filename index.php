@@ -431,6 +431,107 @@
         </div>
       </div>
       <!--     *********    END PROJECTS       *********      -->
+   <!--     *********    START PRICING       *********      -->
+      <div class="pricing-4 " id="pricing-4">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 ml-auto mr-auto text-center">
+              <h2 class="title">Pick the best plan for you</h2>
+              <h5 class="description">.</h5>
+              <div class="section-space"></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-4 col-md-6">
+              <div class="card card-pricing card-plain">
+                <div class="card-body">
+                  <h6 class="card-category">Startup</h6>
+                  <h1 class="card-title">
+                    <small>$</small>600</h1>
+                  <ul>
+                    <li><i class="material-icons text-success">check</i> 5 Pages</li>
+                    <li><i class="material-icons text-success">check</i> Domain name 1year </li>
+                    <li><i class="material-icons text-success">check</i> Hosting 1yearr</li>
+                    <li><i class="material-icons text-success">check</i> Source code</li>
+                    <li><i class="material-icons text-success">check</i> SSL Certificate</li>
+                    <li><i class="material-icons text-success">check</i>Responsive web design</li>
+                    <li><i class="material-icons text-success">check</i>Social media links</li>
+                    <li><i class="material-icons text-success">check</i>5 personalized emails</li>
+                    <li><i class="material-icons text-success">check</i>on site SEO</li>
+                  </ul>
+                </div>
+                <div class="card-footer justify-content-center">
+                  <a href="#contact-us" class="btn btn-success btn-round">
+                    Contact
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="card card-pricing card-plain bg-info">
+                <div class="card-body">
+                  <h6 class="card-category">Business</h6>
+                  <h1 class="card-title">
+                    <small>$</small>1500</h1>
+                  <ul>
+                    <li><i class="material-icons text-success">check</i>10 Pages</li>
+                    <li><i class="material-icons text-success">check</i>Domain name 1year </li>
+                    <li><i class="material-icons text-success">check</i>Hosting 1yearr</li>
+                    <li><i class="material-icons text-success">check</i>Source code</li>
+                    <li><i class="material-icons text-success">check</i>SSL Certificate</li>
+                    <li><i class="material-icons text-success">check</i>Responsive web design</li>
+                    <li><i class="material-icons text-success">check</i>Social media links</li>
+                    <li><i class="material-icons text-success">check</i>10 personalized emails</li>
+                    <li><i class="material-icons text-success">check</i>on site SEO</li>
+                    <li><i class="material-icons text-success">check</i>personalized images</li>
+                    <li><i class="material-icons text-success">check</i>web speed optimization</li>
+                    <li><i class="material-icons text-success">check</i>chat</li>
+                    
+                  </ul>
+                </div>
+                <div class="card-footer justify-content-center">
+                  <a href="#contact-us" class="btn btn-success btn-round">
+                    Contact
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="card card-pricing card-plain">
+                <div class="card-body">
+                  <h6 class="card-category">Advanced</h6>
+                  <h1 class="card-title">
+                    <small>$</small>2900</h1>
+                  <ul>
+                    <li><i class="material-icons text-success">check</i>15 Pages</li>
+                    <li><i class="material-icons text-success">check</i> Domain name 1year </li>
+                    <li><i class="material-icons text-success">check</i> Hosting 1yearr</li>
+                    <li><i class="material-icons text-success">check</i> Source code</li>
+                    <li><i class="material-icons text-success">check</i> SSL Certificate</li>
+                    <li><i class="material-icons text-success">check</i>Responsive web design</li>
+                    <li><i class="material-icons text-success">check</i>Social media links</li>
+                    <li><i class="material-icons text-success">check</i>10 personalized emails</li>
+                    <li><i class="material-icons text-success">check</i>on site SEO</li>
+                    <li><i class="material-icons text-success">check</i>personalized images</li>
+                    <li><i class="material-icons text-success">check</i>web speed optimization</li>
+                    <li><i class="material-icons text-success">check</i>chat</li>
+                    <li><i class="material-icons text-success">check</i>Logo</li>
+                    <li><i class="material-icons text-success">check</i>Business identity</li>
+                     <li><i class="material-icons text-success">check</i>Analitycs</li>
+                     <li><i class="material-icons text-success">check</i>Secure payment gateways</li>
+                  </ul>
+                </div>
+                <div class="card-footer justify-content-center">
+                  <a href="#contact-us" class="btn btn-success btn-round">
+                    Contact
+                  </a>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
     <div class="cd-section" id="contact-us">
       <!--     *********    CONTACT US 1     *********      -->
       <div class="contactus-1 section-image" style="background-image: url('./assets/img/examples/city.jpg')">
