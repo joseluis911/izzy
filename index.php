@@ -391,56 +391,38 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-6">
               <div class="card card-plain">
-                <a href="http://digitalorca.ca" target="_blank">
+                <a href="http://vancouversambaschool.com/" target="_blank">
                   <div class="card-header card-header-image">
-                    <img src="http://digitalorca.ca/vistas/img/hero2.jpg">
+                    <img src="http://vancouversambaschool.com/wp-content/uploads/2020/02/20200126_193452-scaled-1000x563.jpg">
                   </div>
                 </a>
                 <div class="card-body ">
-                  <a href="http://digitalorca.ca" target="_blank">
-                    <h4 class="card-title">Digital Orca</h4>
+                  <a href="http://vancouversambaschool.com/" target="_blank">
+                    <h4 class="card-title">Vancouver Samba School</h4>
                   </a>
-                  <h6 class="card-category">Web Strategist</h6>
+                  <h6 class="card-category">Web Design</h6>
                   <p class="card-description">
-                    Some text here for projects.
+                    
                   </p>
                 </div>
               </div>
             </div>
-            <div class="col-md-4">
-               <div class="card card-plain">
-                <a href="http://digitalorca.ca" target="_blank">
-                  <div class="card-header card-header-image">
-                    <img src="http://digitalorca.ca/vistas/img/hero2.jpg">
-                  </div>
-                </a>
-                <div class="card-body ">
-                  <a href="http://digitalorca.ca" target="_blank">
-                    <h4 class="card-title">Digital Orca</h4>
-                  </a>
-                  <h6 class="card-category">Web Strategist</h6>
-                  <p class="card-description">
-                    Some text here for projects.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
+            <div class="col-md-6">
               <div class="card card-plain">
-                <a href="http://digitalorca.ca" target="_blank">
+                <a href="http://www.modenatiling.com/" target="_blank">
                   <div class="card-header card-header-image">
-                    <img src="http://digitalorca.ca/vistas/img/hero2.jpg">
+                    <img src="./assets/img/project1.jpg">
                   </div>
                 </a>
                 <div class="card-body ">
-                  <a href="http://digitalorca.ca" target="_blank">
-                    <h4 class="card-title">Digital Orca</h4>
+                  <a href="http://www.modenatiling.com/" target="_blank">
+                    <h4 class="card-title">Modena Tiling</h4>
                   </a>
-                  <h6 class="card-category">Web Strategist</h6>
+                  <h6 class="card-category">Web Design</h6>
                   <p class="card-description">
-                    Some text here for projects.
+                    
                   </p>
                 </div>
               </div>
