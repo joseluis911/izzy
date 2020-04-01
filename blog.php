@@ -272,7 +272,7 @@
         <script>
           document.write(new Date().getFullYear())
         </script>, made by
-        <a href="http://digitalorca.ca/" target="_blank">Digital Orca</a>.
+        <a href="http://digitalorca.ca/" target="_blank">IzzyTech in collaboration with Digital Orca</a>.
       </div>
     </div>
   </footer>

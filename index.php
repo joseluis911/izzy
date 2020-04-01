@@ -106,7 +106,7 @@
                         <a href="https://www.facebook.com/Izzytech1/" class="btn btn-just-icon btn-white btn-link">
                           <i class="fa fa-facebook-square"></i>
                         </a>
-                        <a href="" class="btn btn-just-icon btn-white btn-link">
+                        <a href="https://www.instagram.com/izzytech1/" class="btn btn-just-icon btn-white btn-link">
                           <i class="fa fa-instagram"></i>
                         </a>
                       </div>
@@ -656,7 +656,7 @@
         <script>
           document.write(new Date().getFullYear())
         </script>, made by
-        <a href="http://digitalorca.ca/" target="_blank">Digital Orca</a>.
+        <a href="http://digitalorca.ca/" target="_blank">IzzyTech in collaboration with Digital Orca</a>.
       </div>
     </div>
   </footer>
